@@ -11,12 +11,12 @@ The courses/books marked as (current) are the things that i'm studying now.
 
 
 
-# Computer science
-## C++
-Book C++ Primer by Lippman, Lajoie, Moo 
-Book Professional C++ by Marc Gregoire
-Book The C++ Programming Language by Bjarne Stroustrup
-Book C++ Templates The Complete Guide by Vandevoorde, Josuttis
+## Computer science
+### C++
+Book C++ Primer by Lippman, Lajoie, Moo   
+Book Professional C++ by Marc Gregoire  
+Book The C++ Programming Language by Bjarne Stroustrup  
+Book C++ Templates The Complete Guide by Vandevoorde, Josuttis  
 Book C++ Concurrency in Action by Anthony Williams  
 
 

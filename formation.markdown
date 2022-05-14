@@ -13,17 +13,20 @@ The courses/books marked as (current) are the things that i'm studying now.
 
 # Computer science
 ## C++
-### Book C++ Primer by Lippman, Lajoie, Moo 
-### Book Professional C++ by Marc Gregoire
-### Book The C++ Programming Language by Bjarne Stroustrup
-### Book C++ Templates The Complete Guide by Vandevoorde, Josuttis
-### Book C++ Concurrency in Action by Anthony Williams
+Book C++ Primer by Lippman, Lajoie, Moo 
+Book Professional C++ by Marc Gregoire
+Book The C++ Programming Language by Bjarne Stroustrup
+Book C++ Templates The Complete Guide by Vandevoorde, Josuttis
+Book C++ Concurrency in Action by Anthony Williams  
+
 
 ## Python
-### Official tutorial https://docs.python.org/3/tutorial/
+Official tutorial https://docs.python.org/3/tutorial/  
+
 
 ## C
-### Book The C Programming Language by Ritchie, Kernighan
+Book The C Programming Language by Ritchie, Kernighan  
+
 
 ## Java
 ### Book Core Java vol. 1 & 2 by Cay S. Horstmann (but i really don't like Java)

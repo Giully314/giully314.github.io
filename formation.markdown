@@ -57,7 +57,7 @@ The courses/books marked as (current) are the things that i'm studying now.
 ### Course Stanford CS230 Deep Learning 
 ### Book Deep Learning by Goodfellow, Bengio, Courville
 ### Book Hands-On Machine Learning by Geron Aurelien
-### Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
+### Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)
 
 
 # Math
@@ -65,17 +65,14 @@ The courses/books marked as (current) are the things that i'm studying now.
 ### Course MIT Multivariable calculus (current)
 ### Course MIT Linear algebra
 ### Book Calculus vol 1 by Tom M. Apostol
-### Book A first course in probability by Sheldon M. Ross  
-
+### Book A first course in probability by Sheldon M. Ross
 
 # Chemestry
-### Course MIT Principles of Chemical Science (current)  
-
+### Course MIT Principles of Chemical Science (current)
 
 # Neuroscience
 ### Course MIT Introduction to Psychology
-### Course Yale Introduction to Psychology (current)  
-
+### Course Yale Introduction to Psychology (current)
 
 # PROJECTS
 ## Current working on Gargantua https://github.com/Giully314/Gargantua

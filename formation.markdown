@@ -72,9 +72,9 @@ Book A first course in probability by Sheldon M. Ross
 ## Chemestry
 Course MIT Principles of Chemical Science (current)  
 
-## Neuroscience
+## Neuroscience & Psychology
 Course MIT Introduction to Psychology  
-Course Yale Introduction to Psychology (current)  
+Course MIT The Human Brain (current)  
 
 ## PROJECTS
 Current working on Gargantua https://github.com/Giully314/Gargantua  

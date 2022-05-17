@@ -4,11 +4,6 @@ title: Formation
 permalink: /formation/
 ---
 
-Since i'm a self learner, most of my knowledge is based on online courses, books and conferences.
-Most of the time, i study from courses when i need an overview of a field and then i proceed to go in depth with multiple books.
-All courses that are mentioned are available on Youtube. 
-The courses/books marked as (current) are the things that i'm studying now.  
-
 
 ## Computer science
 ### C++

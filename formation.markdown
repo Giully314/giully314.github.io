@@ -64,7 +64,7 @@ Course MIT Linear algebra
 Book Calculus vol 1 by Tom M. Apostol  
 Book A first course in probability by Sheldon M. Ross  
 
-## Chemestry
+## Chemistry
 Course MIT Principles of Chemical Science (current)  
 
 ## Neuroscience & Psychology

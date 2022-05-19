@@ -5,6 +5,12 @@ permalink: /formation/
 ---
 
 
+## PROJECTS
+Current working on [Gargantua](https://github.com/Giully314/Gargantua)
+
+Implementation in Pytorch of [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf) (soon on github)  
+
+
 ## Computer science
 ### C++
 Book C++ Primer by Lippman, Lajoie, Moo   
@@ -71,7 +77,3 @@ Course MIT Principles of Chemical Science (current)
 Course MIT Introduction to Psychology  
 Course MIT The Human Brain (current)  
 
-## PROJECTS
-Current working on Gargantua https://github.com/Giully314/Gargantua  
-
-Implementation in Pytorch of A Neural Algorithm of Artistic Style https://arxiv.org/pdf/1508.06576v2.pdf (soon on github)  

@@ -6,9 +6,9 @@ permalink: /formation/
 
 
 ## PROJECTS
-Current working on [Gargantua](https://github.com/Giully314/Gargantua)
+Working on [Gargantua](https://github.com/Giully314/Gargantua)  
+Working on Cooper, a library for experiments on datastructures implementation (soon on Github)  
 
-Implementation in Pytorch of [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576v2.pdf) (soon on github)  
 
 
 ## Computer science
@@ -31,6 +31,7 @@ Book The C Programming Language by Ritchie, Kernighan
 ### Java 
 Book Core Java vol. 1 & 2 by Cay S. Horstmann (but i really don't like Java)  
 
+
 ### Parallel programming
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ (for a project, see my github)  
@@ -51,7 +52,15 @@ Book Computer Networking: A Top-Down Approach by Ross, Kurose
 
 ### Software architecture
 Book Large Scale C++ by John Lakos  
-Book Game Programming Patterns by Robert Nystrom  
+Book Game Programming Patterns by Robert Nystrom
+
+
+### Game engine and rendering
+Book Game Engine Architecture by Jason Gregory
+Github [TinyRenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started)  
+Book Real time collision detection 
+
+
 
 ### Artificial intelligence
 Course MIT Artificial Intelligence  
@@ -65,13 +74,21 @@ Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as refere
 
 ## Math
 Course Sapienza Analisi 1 (equivalent to Single Variable Calculus + Ordinary Differential Equations)  
-Course MIT Multivariable calculus (current)  
+Course MIT Multivariable calculus  
 Course MIT Linear algebra  
 Book Calculus vol 1 by Tom M. Apostol  
 Book A first course in probability by Sheldon M. Ross  
+Book Introduction to Topology by Bert Mendelson (current)  
+Course MIT Probabilistic systems analysis and applied probability (current)  
+Book Mathematical logic for computer science by Mordechai Ben-Ari (current)  
 
-## Chemistry
-Course MIT Principles of Chemical Science (current)  
+
+## Chemistry & Biology
+Course MIT Principles of Chemical Science  
+Course MIT Getting up to Speed in Biology 
+Course MIT Introductory Biology (current)  
+
+
 
 ## Neuroscience & Psychology
 Course MIT Introduction to Psychology  

@@ -56,7 +56,7 @@ Book Game Programming Patterns by Robert Nystrom
 
 
 ### Game engine and rendering
-Book Game Engine Architecture by Jason Gregory
+Book Game Engine Architecture by Jason Gregory  
 Github [TinyRenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started)  
 Book Real time collision detection 
 
@@ -85,7 +85,7 @@ Book Mathematical logic for computer science by Mordechai Ben-Ari (current)
 
 ## Chemistry & Biology
 Course MIT Principles of Chemical Science  
-Course MIT Getting up to Speed in Biology 
+Course MIT Getting up to Speed in Biology  
 Course MIT Introductory Biology (current)  
 
 

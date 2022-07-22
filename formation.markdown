@@ -52,13 +52,13 @@ Book Computer Networking: A Top-Down Approach by Ross, Kurose
 
 ### Software architecture
 Book Large Scale C++ by John Lakos  
-Book Game Programming Patterns by Robert Nystrom
+Book Game Programming Patterns by Robert Nystrom  
 
 
 ### Game engine and rendering
 Book Game Engine Architecture by Jason Gregory  
 Github [TinyRenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started)  
-Book Real time collision detection 
+Book Real time collision detection (reference for 2d collisions)  
 
 
 
@@ -73,12 +73,12 @@ Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as refere
 
 
 ## Math
-Course Sapienza Analisi 1 (equivalent to Single Variable Calculus + Ordinary Differential Equations)  
+Course Sapienza Analisi 1 (equivalent to Single Variable Calculus + Real analysis + Ordinary Differential Equations)  
 Course MIT Multivariable calculus  
 Course MIT Linear algebra  
 Book Calculus vol 1 by Tom M. Apostol  
 Book A first course in probability by Sheldon M. Ross  
-Book Introduction to Topology by Bert Mendelson (current)  
+Course MIT Theory of Computation (current)  
 Course MIT Probabilistic systems analysis and applied probability (current)  
 Book Mathematical logic for computer science by Mordechai Ben-Ari (current)  
 
@@ -92,5 +92,5 @@ Course MIT Introductory Biology (current)
 
 ## Neuroscience & Psychology
 Course MIT Introduction to Psychology  
-Course MIT The Human Brain (current)  
+Course MIT The Human Brain   
 

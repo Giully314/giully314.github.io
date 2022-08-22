@@ -7,7 +7,7 @@ permalink: /formation/
 
 ## PROJECTS
 Working on [Gargantua](https://github.com/Giully314/Gargantua)  
-Working on Cooper, a library for experiments on datastructures implementation (soon on Github)  
+Working on Cooper, a library for experiments on datastructures and allocators (soon on Github)  
 
 
 
@@ -40,6 +40,8 @@ Site MPI https://mpitutorial.com/tutorials/ (for a project, see my github)
 Course MIT Introduction to Algorithms 2011  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello  La Rocca  
+Book Elements of programming by Stepanov, McJones (current)  
+
 
 ### Computer architecture
 Book Structured Computer Organization by Tanenbaum, Austin  
@@ -78,9 +80,10 @@ Course MIT Multivariable calculus
 Course MIT Linear algebra  
 Book Calculus vol 1 by Tom M. Apostol  
 Book A first course in probability by Sheldon M. Ross  
-Course MIT Theory of Computation (current)  
-Course MIT Probabilistic systems analysis and applied probability (current)  
-Book Mathematical logic for computer science by Mordechai Ben-Ari (current)  
+Book Information Theory A tutorial introduction by James V Stone  
+Book Proofs by Jay Cummings (current)  
+Book Naive set theory by Paul R. Halmos (current)  
+
 
 
 ## Chemistry & Biology

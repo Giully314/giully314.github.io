@@ -7,8 +7,7 @@ permalink: /formation/
 
 ## PROJECTS
 Working on [Gargantua](https://github.com/Giully314/Gargantua)  
-Working on Cooper, a library for experiments on datastructures and allocators (soon on Github)  
-
+[Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode  
 
 
 ## Computer science
@@ -35,6 +34,9 @@ Book Core Java vol. 1 & 2 by Cay S. Horstmann (but i really don't like Java)
 ### Parallel programming
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ (for a project, see my github)  
+Course MIT Performance Engineering of Software Systems (current)  
+
+
 
 ### Algorithms and data structures
 Course MIT Introduction to Algorithms 2011  
@@ -82,14 +84,16 @@ Book Calculus vol 1 by Tom M. Apostol
 Book A first course in probability by Sheldon M. Ross  
 Book Information Theory A tutorial introduction by James V Stone  
 Book Proofs by Jay Cummings (current)  
-Book Naive set theory by Paul R. Halmos (current)  
+Book Elements of set theory by Herbert B. Enderton (current)  
+Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)  
 
 
 
 ## Chemistry & Biology
 Course MIT Principles of Chemical Science  
 Course MIT Getting up to Speed in Biology  
-Course MIT Introductory Biology (current)  
+Course MIT Introductory Biology  
+
 
 
 

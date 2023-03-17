@@ -72,6 +72,7 @@ Course [MIT Deep Learning](http://introtodeeplearning.com/)
 Course [Stanford CS229 Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html)  
 Course [Stanford CS230 Deep Learning](http://cs230.stanford.edu/)  
 Course [Stanford CS224n NLP with deep learning (2021)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)  
+Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
@@ -85,9 +86,9 @@ Book Calculus vol 1 by Tom M. Apostol
 Book A first course in probability by Sheldon M. Ross  
 Book Information Theory A tutorial introduction by James V Stone  
 Book Proofs by Jay Cummings   
-Book Elements of set theory by Herbert B. Enderton    
+Book Elements of set theory by Herbert B. Enderton  
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)  
-
+Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)  
 
 
 ## Chemistry & Biology

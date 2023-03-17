@@ -34,15 +34,15 @@ Book Core Java vol. 1 & 2 by Cay S. Horstmann (but i really don't like Java)
 ### Parallel programming
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ (for a project, see my github)  
-Course MIT Performance Engineering of Software Systems (current)  
+Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (current)  
 
 
 
 ### Algorithms and data structures
-Course MIT Introduction to Algorithms 2011  
+Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
-Book Advanced Algorithms and Data Structures by Marcello  La Rocca  
-Book Elements of programming by Stepanov, McJones (current)  
+Book Advanced Algorithms and Data Structures by Marcello La Rocca  
+Book Elements of programming by Stepanov, McJones  
 
 
 ### Computer architecture
@@ -55,7 +55,7 @@ Book Operating Systems Concepts by Silberschatz, Galvin, Gagne
 Book Computer Networking: A Top-Down Approach by Ross, Kurose  
 
 ### Software architecture
-Book Large Scale C++ by John Lakos  
+Book Large Scale C++ by John Lakos (current)   
 Book Game Programming Patterns by Robert Nystrom  
 
 
@@ -71,6 +71,7 @@ Course MIT Artificial Intelligence
 Course MIT Deep Learning  
 Course Stanford CS229 Machine Learning  
 Course Stanford CS230 Deep Learning  
+Course Stanford CS224n NLP with deep learning (2021)  
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
@@ -83,8 +84,8 @@ Course MIT Linear algebra
 Book Calculus vol 1 by Tom M. Apostol  
 Book A first course in probability by Sheldon M. Ross  
 Book Information Theory A tutorial introduction by James V Stone  
-Book Proofs by Jay Cummings (current)  
-Book Elements of set theory by Herbert B. Enderton (current)  
+Book Proofs by Jay Cummings   
+Book Elements of set theory by Herbert B. Enderton    
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)  
 
 
@@ -93,8 +94,7 @@ Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)
 Course MIT Principles of Chemical Science  
 Course MIT Getting up to Speed in Biology  
 Course MIT Introductory Biology  
-
-
+Book Molecular biology of the cell by Bruce Alberts  
 
 
 ## Neuroscience & Psychology

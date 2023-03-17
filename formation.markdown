@@ -67,20 +67,20 @@ Book Real time collision detection (reference for 2d collisions)
 
 
 ### Artificial intelligence
-Course MIT Artificial Intelligence  
-Course MIT Deep Learning  
-Course Stanford CS229 Machine Learning  
-Course Stanford CS230 Deep Learning  
-Course Stanford CS224n NLP with deep learning (2021)  
+Course [MIT Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)  
+Course [MIT Deep Learning](http://introtodeeplearning.com/)  
+Course [Stanford CS229 Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html)  
+Course [Stanford CS230 Deep Learning](http://cs230.stanford.edu/)  
+Course [Stanford CS224n NLP with deep learning (2021)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)  
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
 
 
 ## Math
-Course Sapienza Analisi 1 (equivalent to Single Variable Calculus + Real analysis + Ordinary Differential Equations)  
-Course MIT Multivariable calculus  
-Course MIT Linear algebra  
+Course [Sapienza Analisi 1](https://www.youtube.com/watch?v=qX23Cs6mSRU&list=PLAQopGWlIcyZlCmXWE_KvtMi57Mwbyf6C)  
+Course MIT [Multivariable calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)  
+Course [MIT Linear algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)  
 Book Calculus vol 1 by Tom M. Apostol  
 Book A first course in probability by Sheldon M. Ross  
 Book Information Theory A tutorial introduction by James V Stone  
@@ -91,13 +91,12 @@ Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)
 
 
 ## Chemistry & Biology
-Course MIT Principles of Chemical Science  
-Course MIT Getting up to Speed in Biology  
-Course MIT Introductory Biology  
+Course [MIT Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)    
+Course [MIT Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)  
 Book Molecular biology of the cell by Bruce Alberts  
 
 
 ## Neuroscience & Psychology
-Course MIT Introduction to Psychology  
-Course MIT The Human Brain   
+Course [MIT Introduction to Psychology](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/)  
+Course [MIT The Human Brain](https://ocw.mit.edu/courses/9-13-the-human-brain-spring-2019/)   
 

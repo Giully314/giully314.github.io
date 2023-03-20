@@ -77,6 +77,11 @@ Book Deep Learning by Goodfellow, Bengio, Courville
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
 
+### Theoretical computer science and programming languages
+Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (current)   
+Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom (current)  
+
+
 
 ## Math
 Course [Sapienza Analisi 1](https://www.youtube.com/watch?v=qX23Cs6mSRU&list=PLAQopGWlIcyZlCmXWE_KvtMi57Mwbyf6C)  
@@ -88,13 +93,12 @@ Book Information Theory A tutorial introduction by James V Stone
 Book Proofs by Jay Cummings   
 Book Elements of set theory by Herbert B. Enderton  
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)  
-Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)  
 
 
 ## Chemistry & Biology
 Course [MIT Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)    
 Course [MIT Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)  
-Book Molecular biology of the cell by Bruce Alberts  
+Book Molecular biology of the cell by Bruce Alberts (current)  
 
 
 ## Neuroscience & Psychology

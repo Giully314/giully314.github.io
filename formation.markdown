@@ -99,6 +99,7 @@ Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)
 Course [MIT Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)    
 Course [MIT Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)  
 Book Molecular biology of the cell by Bruce Alberts (current)  
+Course [MIT Foundations of computational and systems biology](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/) (current)  
 
 
 ## Neuroscience & Psychology

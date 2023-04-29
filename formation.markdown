@@ -8,7 +8,7 @@ permalink: /formation/
 ## PROJECTS
 Working on [Gargantua](https://github.com/Giully314/Gargantua).  
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
-Working on [loxlol] (https://github.com/Giully314/loxlol) an interpreter for the lox language.  
+Working on [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
 
 ## Computer science
 ### C++

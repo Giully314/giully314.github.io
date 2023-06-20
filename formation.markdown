@@ -9,6 +9,7 @@ permalink: /formation/
 Working on [Gargantua](https://github.com/Giully314/Gargantua).  
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 Working on [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
+Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
 
 ## Computer science
 ### C++
@@ -33,8 +34,8 @@ Book Core Java vol. 1 & 2 by Cay S. Horstmann (but i really don't like Java)
 
 ### Parallel programming
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
-Site MPI https://mpitutorial.com/tutorials/ (for a project, see my github)  
-Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (current)  
+Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
+Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (pause)  
 
 
 
@@ -42,7 +43,8 @@ Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/cou
 Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
-Book Elements of programming by Stepanov, McJones  
+Book Elements of programming by Stepanov, McJones (current)  
+Book From mathematics to generic programming by Stepanov, Rose (current)  
 
 
 ### Computer architecture
@@ -55,7 +57,7 @@ Book Operating Systems Concepts by Silberschatz, Galvin, Gagne
 Book Computer Networking: A Top-Down Approach by Ross, Kurose  
 
 ### Software architecture
-Book Large Scale C++ by John Lakos (current)   
+Book Large Scale C++ by John Lakos (pause)   
 Book Game Programming Patterns by Robert Nystrom  
 
 
@@ -72,15 +74,15 @@ Course [MIT Deep Learning](http://introtodeeplearning.com/)
 Course [Stanford CS229 Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html)  
 Course [Stanford CS230 Deep Learning](http://cs230.stanford.edu/)  
 Course [Stanford CS224n NLP with deep learning (2021)](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/)  
-Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)
+Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)  
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
 
 ### Theoretical computer science and programming languages
-Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (current)   
-Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold  
-Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom (current)  
+Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (pause)   
+Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold (current)  
+Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom (pause)  
 
 
 

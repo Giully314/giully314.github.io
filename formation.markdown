@@ -6,10 +6,15 @@ permalink: /formation/
 
 
 ## PROJECTS
-Working on [Gargantua](https://github.com/Giully314/Gargantua).  
+Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine.  
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 Working on [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
 Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
+[Squad](https://github.com/Giully314/squad) a try on the SQUAD dataset (question answering) with the bidaf model.  
+[Build a 6502 computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH) run "Hello world" on 
+a computer build from scratch. I'm planning to write a kernel once i finish the base project.  
+
+
 
 ## Computer science
 ### C++
@@ -41,6 +46,7 @@ Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/cou
 
 ### Algorithms and data structures
 Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
+Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (current)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
 Book Elements of programming by Stepanov, McJones (current)  
@@ -101,7 +107,7 @@ Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)
 ## Chemistry & Biology
 Course [MIT Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)    
 Course [MIT Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)  
-Book Molecular biology of the cell by Bruce Alberts (current)  
+Book Molecular biology of the cell by Bruce Alberts (pause)  
 
 
 ## Neuroscience & Psychology

@@ -6,13 +6,14 @@ permalink: /formation/
 
 
 ## PROJECTS
-Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine.  
+Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine from scratch in C++23.  
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 Working on [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
 Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
 [Squad](https://github.com/Giully314/squad) a try on the SQUAD dataset (question answering) with the bidaf model.  
+Working on [Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
 [Build a 6502 computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH) run "Hello world" on 
-a computer build from scratch. I'm planning to write a kernel once i finish the base project.  
+a computer built from scratch using a 6502. I'm planning to write a kernel once i finish the base project.  
 
 
 
@@ -97,6 +98,7 @@ Course [Sapienza Analisi 1](https://www.youtube.com/watch?v=qX23Cs6mSRU&list=PLA
 Course MIT [Multivariable calculus](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)  
 Course [MIT Linear algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)  
 Book Calculus vol 1 by Tom M. Apostol  
+Book Introduction to operations research by Hillier, Lieberman  
 Book A first course in probability by Sheldon M. Ross  
 Book Information Theory A tutorial introduction by James V Stone  
 Book Proofs by Jay Cummings   

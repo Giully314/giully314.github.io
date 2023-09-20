@@ -8,12 +8,13 @@ permalink: /formation/
 ## PROJECTS
 Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine from scratch in C++23.  
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
-Working on [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
+[loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
 Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
 [Squad](https://github.com/Giully314/squad) a try on the SQUAD dataset (question answering) with the bidaf model.  
 Working on [Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
 [Build a 6502 computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH) run "Hello world" on 
 a computer built from scratch using a 6502. I'm planning to write a kernel once i finish the base project.  
+
 
 
 
@@ -35,7 +36,7 @@ Book The C Programming Language by Ritchie, Kernighan
 
 
 ### Java 
-Book Core Java vol. 1 & 2 by Cay S. Horstmann (but i really don't like Java)  
+Book Core Java vol. 1 & 2 by Cay S. Horstmann (but I really don't like Java)  
 
 
 ### Parallel programming
@@ -50,8 +51,7 @@ Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-i
 Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (current)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
-Book Elements of programming by Stepanov, McJones (current)  
-Book From mathematics to generic programming by Stepanov, Rose (current)  
+Book Elements of programming by Stepanov, McJones (current)    
 
 
 ### Computer architecture
@@ -85,10 +85,12 @@ Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
+Book An introduction to statistical learning by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani (current)  
+Book Probabilistic Machine Learning: An Introduction by Kevin P. Murphy (current)  
 
 ### Theoretical computer science and programming languages
 Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (pause)   
-Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold (current)  
+Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold  
 Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom (pause)  
 
 
@@ -103,7 +105,7 @@ Book A first course in probability by Sheldon M. Ross
 Book Information Theory A tutorial introduction by James V Stone  
 Book Proofs by Jay Cummings   
 Book Elements of set theory by Herbert B. Enderton  
-Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)  
+Book A beginner's guide to mathematical logic by Raymond M. Smullyan   
 
 
 ## Chemistry & Biology

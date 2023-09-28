@@ -35,14 +35,21 @@ Official tutorial https://docs.python.org/3/tutorial/
 Book The C Programming Language by Ritchie, Kernighan  
 
 
+### Golang
+Official tutorial https://go.dev/tour/list  
+Book Learning Go An idiomatic approach to real world Go programming by Jon Bodner      
+Book Let's Go by Alex Edwards (current)  
+
+
 ### Java 
 Book Core Java vol. 1 & 2 by Cay S. Horstmann (but I really don't like Java)  
 
 
-### Parallel programming
+### Parallel programming and distributed systems
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
-Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (pause)  
+Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (current)  
+Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (current)  
 
 
 
@@ -59,6 +66,8 @@ Book Structured Computer Organization by Tanenbaum, Austin
 
 ### Operating systems
 Book Operating Systems Concepts by Silberschatz, Galvin, Gagne  
+Book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) (current)   
+
 
 ### Network
 Book Computer Networking: A Top-Down Approach by Ross, Kurose  
@@ -85,8 +94,7 @@ Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
-Book An introduction to statistical learning by Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani (current)  
-Book Probabilistic Machine Learning: An Introduction by Kevin P. Murphy (current)  
+
 
 ### Theoretical computer science and programming languages
 Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (pause)   

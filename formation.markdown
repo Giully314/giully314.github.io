@@ -7,14 +7,15 @@ permalink: /formation/
 
 ## PROJECTS
 Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine from scratch in C++23.  
+Working on [loxcompiler](https://github.com/Giully314/loxcompiler) a compiler using LLVM for the Lox programming language.   
+Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
+Working on [Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
+Working on [Tars](https://github.com/Giully314/tars) a search engine in Python.   
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
-Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
 [Squad](https://github.com/Giully314/squad) a try on the SQUAD dataset (question answering) with the bidaf model.  
-Working on [Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
 [Build a 6502 computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH) run "Hello world" on 
 a computer built from scratch using a 6502. I'm planning to write a kernel once i finish the base project.  
-
 
 
 
@@ -25,6 +26,7 @@ Book Professional C++ by Marc Gregoire
 Book The C++ Programming Language by Bjarne Stroustrup  
 Book C++ Templates The Complete Guide by Vandevoorde, Josuttis  
 Book C++ Concurrency in Action by Anthony Williams  
+   
 
 
 ### Python
@@ -74,7 +76,9 @@ Book Computer Networking: A Top-Down Approach by Ross, Kurose
 
 ### Software architecture
 Book Large Scale C++ by John Lakos (pause)   
-Book Game Programming Patterns by Robert Nystrom  
+Book Game Programming Patterns by Robert Nystrom   
+Book C++ Software design, Design principles and patterns by Klaus Iglberger (current)   
+
 
 
 ### Game engine and rendering
@@ -114,6 +118,8 @@ Book Information Theory A tutorial introduction by James V Stone
 Book Proofs by Jay Cummings   
 Book Elements of set theory by Herbert B. Enderton  
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan   
+Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (current)   
+
 
 
 ## Chemistry & Biology

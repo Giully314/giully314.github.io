@@ -46,12 +46,17 @@ Book Let's Go by Alex Edwards (current)
 ### Java 
 Book Core Java vol. 1 & 2 by Cay S. Horstmann (but I really don't like Java)  
 
+### OCaml
+Official tutorial https://ocaml.org/docs/your-first-program#using-the-preprocessor-to-generate-code   
+
+
 
 ### Parallel programming and distributed systems
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
 Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (current)  
 Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (current)  
+Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (current)  
 
 
 
@@ -60,7 +65,7 @@ Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-i
 Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (current)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
-Book Elements of programming by Stepanov, McJones (current)    
+Book Elements of programming by Stepanov, McJones    
 
 
 ### Computer architecture
@@ -77,7 +82,7 @@ Book Computer Networking: A Top-Down Approach by Ross, Kurose
 ### Software architecture
 Book Large Scale C++ by John Lakos (pause)   
 Book Game Programming Patterns by Robert Nystrom   
-Book C++ Software design, Design principles and patterns by Klaus Iglberger (current)   
+Book C++ Software design, Design principles and patterns by Klaus Iglberger   
 
 
 
@@ -101,9 +106,9 @@ Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as refere
 
 
 ### Theoretical computer science and programming languages
-Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (pause)   
+Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)   
 Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold  
-Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom (pause)  
+Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom   
 
 
 
@@ -118,7 +123,7 @@ Book Information Theory A tutorial introduction by James V Stone
 Book Proofs by Jay Cummings   
 Book Elements of set theory by Herbert B. Enderton  
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan   
-Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (current)   
+Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (pause)   
 
 
 

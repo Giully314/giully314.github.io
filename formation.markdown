@@ -92,6 +92,10 @@ Github [TinyRenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getti
 Book Real time collision detection (reference for 2d collisions)  
 
 
+### Trading systems and real time systems
+Book Developing High-Frequency Trading systems by Donadio, Ghosh, Rossier  
+
+
 
 ### Artificial intelligence
 Course [MIT Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)  

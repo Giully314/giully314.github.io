@@ -55,7 +55,7 @@ Official tutorial https://ocaml.org/docs/your-first-program#using-the-preprocess
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
 Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (current)  
-Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (current)  
+Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (current)  
 
 
@@ -128,6 +128,8 @@ Book Proofs by Jay Cummings
 Book Elements of set theory by Herbert B. Enderton  
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan   
 Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (pause)   
+Book Algebra by Michael Artin (current)   
+
 
 
 

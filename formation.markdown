@@ -51,13 +51,14 @@ Official tutorial https://ocaml.org/docs/your-first-program#using-the-preprocess
 
 
 
-### Parallel programming and distributed systems
+### Performance, parallel programming and distributed systems
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
-Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/) (current)  
+Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)    
 Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (current)  
-
+Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (current)   
+  
 
 
 ### Algorithms and data structures

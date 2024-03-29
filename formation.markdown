@@ -10,7 +10,6 @@ Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine 
 Working on [loxcompiler](https://github.com/Giully314/loxcompiler) a compiler using LLVM for the Lox programming language.   
 Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
 Working on [Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
-Working on [Tars](https://github.com/Giully314/tars) a search engine in Python.   
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
 [Squad](https://github.com/Giully314/squad) a try on the SQUAD dataset (question answering) with the bidaf model.  
@@ -56,14 +55,14 @@ Structured Parallel Programming: Patterns for Efficient Computation by McCool, R
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
 Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)    
 Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
-Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (current)  
+Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (pause)  
 Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (current)   
-  
+
 
 
 ### Algorithms and data structures
 Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
-Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (current)  
+Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (pause)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
 Book Elements of programming by Stepanov, McJones    
@@ -74,7 +73,8 @@ Book Structured Computer Organization by Tanenbaum, Austin
 
 ### Operating systems
 Book Operating Systems Concepts by Silberschatz, Galvin, Gagne  
-Book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) (current)   
+Book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
+
 
 
 ### Network
@@ -108,11 +108,12 @@ Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
+Book An introduction to statistical learning by James, Witten, Hastie, Tibshirani, Taylor (current)  
 
 
 ### Theoretical computer science and programming languages
-Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)   
-Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold  
+Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (current)   
+Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold (current)  
 Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom   
 
 
@@ -127,10 +128,9 @@ Book A first course in probability by Sheldon M. Ross
 Book Information Theory A tutorial introduction by James V Stone  
 Book Proofs by Jay Cummings   
 Book Elements of set theory by Herbert B. Enderton  
-Book A beginner's guide to mathematical logic by Raymond M. Smullyan   
 Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (pause)   
-Book Algebra by Michael Artin (current)   
-
+Book Algebra by Michael Artin (pause)   
+Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)   
 
 
 

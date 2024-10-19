@@ -30,6 +30,9 @@ Book C++ Concurrency in Action by Anthony Williams
 
 ### Python
 Official tutorial https://docs.python.org/3/tutorial/  
+Book Fluent python by Luciano Ramalho  
+Book High performance python by Ian Ozsvald and Micha Gorelick  
+Book Python data science handbook by Jake VanderPlas  
 
 
 ### C
@@ -39,7 +42,7 @@ Book The C Programming Language by Ritchie, Kernighan
 ### Golang
 Official tutorial https://go.dev/tour/list  
 Book Learning Go An idiomatic approach to real world Go programming by Jon Bodner      
-Book Let's Go by Alex Edwards (current)  
+Book Let's Go by Alex Edwards   
 
 
 ### Java 
@@ -48,7 +51,8 @@ Book Core Java vol. 1 & 2 by Cay S. Horstmann (but I really don't like Java)
 ### OCaml
 Official tutorial https://ocaml.org/docs/your-first-program#using-the-preprocessor-to-generate-code   
 
-
+### Rust
+Official book https://google.github.io/comprehensive-rust/index.html  
 
 ### Performance, parallel programming and distributed systems
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
@@ -76,7 +80,6 @@ Book Operating Systems Concepts by Silberschatz, Galvin, Gagne
 Book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
 
 
-
 ### Network
 Book Computer Networking: A Top-Down Approach by Ross, Kurose  
 
@@ -84,8 +87,11 @@ Book Computer Networking: A Top-Down Approach by Ross, Kurose
 Book Large Scale C++ by John Lakos (pause)   
 Book Game Programming Patterns by Robert Nystrom   
 Book C++ Software design, Design principles and patterns by Klaus Iglberger   
+Book A philosophy of software design by by John Ousterhout  
 
-
+### Software management
+Book The mythical man-month by Frederick Brooks  
+Book The pragmatic programmer by Andy Hunt and Dave Thomas  
 
 ### Game engine and rendering
 Book Game Engine Architecture by Jason Gregory  
@@ -97,8 +103,7 @@ Book Real time collision detection (reference for 2d collisions)
 Book Developing High-Frequency Trading systems by Donadio, Ghosh, Rossier  
 
 
-
-### Artificial intelligence
+### Artificial intelligence and data science
 Course [MIT Artificial Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)  
 Course [MIT Deep Learning](http://introtodeeplearning.com/)  
 Course [Stanford CS229 Machine Learning](http://cs229.stanford.edu/syllabus-autumn2018.html)  
@@ -108,7 +113,9 @@ Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
 Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
-Book An introduction to statistical learning by James, Witten, Hastie, Tibshirani, Taylor (current)  
+Book An introduction to statistical learning by James, Witten, Hastie, Tibshirani, Taylor (pause)  
+Book The data science design manual by Steven Skiena  
+Course [Neural network: Zero to hero by Karpathy](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=fuANCn0QfaG0rpA9)  
 
 
 ### Theoretical computer science and programming languages

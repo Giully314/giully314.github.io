@@ -96,6 +96,7 @@ Book Lead developer career guide by Shelley Benhoff
 
 ### Game engine and rendering
 Book Game Engine Architecture by Jason Gregory  
+Blog [LearnOpenGL](https://learnopengl.com/)   
 Github [TinyRenderer](https://github.com/ssloy/tinyrenderer/wiki/Lesson-0:-getting-started)  
 Book Real time collision detection (reference for 2d collisions)  
 

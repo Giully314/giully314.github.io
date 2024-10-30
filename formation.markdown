@@ -92,6 +92,7 @@ Book A philosophy of software design by by John Ousterhout
 ### Software management
 Book The mythical man-month by Frederick Brooks  
 Book The pragmatic programmer by Andy Hunt and Dave Thomas  
+Book Lead developer career guide by Shelley Benhoff   
 
 ### Game engine and rendering
 Book Game Engine Architecture by Jason Gregory  

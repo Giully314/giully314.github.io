@@ -84,7 +84,7 @@ Book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OST
 Book Computer Networking: A Top-Down Approach by Ross, Kurose  
 
 ### Software architecture
-Book Large Scale C++ by John Lakos (pause)   
+Book Large Scale C++ by John Lakos   
 Book Game Programming Patterns by Robert Nystrom   
 Book C++ Software design, Design principles and patterns by Klaus Iglberger   
 Book A philosophy of software design by by John Ousterhout  
@@ -114,10 +114,11 @@ Course [Stanford CS224n NLP with deep learning (2021)](https://web.stanford.edu/
 Course [NYU Deep Learning](https://atcold.github.io/NYU-DLSP21/)  
 Book Deep Learning by Goodfellow, Bengio, Courville  
 Book Hands-On Machine Learning by Geron Aurelien  
-Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong (used as reference)  
+Book Mathematics for Machine Learning by Deisenroth, Faisal, Ong     
 Book An introduction to statistical learning by James, Witten, Hastie, Tibshirani, Taylor (pause)  
 Book The data science design manual by Steven Skiena  
 Course [Neural network: Zero to hero by Karpathy](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=fuANCn0QfaG0rpA9)  
+Book Alice's adventures in a differentiable wonderland by Simone Scardapane  
 
 
 ### Theoretical computer science and programming languages

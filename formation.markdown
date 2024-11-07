@@ -88,6 +88,7 @@ Book Large Scale C++ by John Lakos
 Book Game Programming Patterns by Robert Nystrom   
 Book C++ Software design, Design principles and patterns by Klaus Iglberger   
 Book A philosophy of software design by by John Ousterhout  
+Effective Software Architecture by Oliver Goldman   
 
 ### Software management
 Book The mythical man-month by Frederick Brooks  

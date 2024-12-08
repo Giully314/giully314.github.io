@@ -25,7 +25,8 @@ Book Professional C++ by Marc Gregoire
 Book The C++ Programming Language by Bjarne Stroustrup  
 Book C++ Templates The Complete Guide by Vandevoorde, Josuttis  
 Book C++ Concurrency in Action by Anthony Williams  
-   
+Book Functional programming in C++ by Ivan Cukic   
+
 
 
 ### Python
@@ -120,6 +121,8 @@ Book An introduction to statistical learning by James, Witten, Hastie, Tibshiran
 Book The data science design manual by Steven Skiena  
 Course [Neural network: Zero to hero by Karpathy](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=fuANCn0QfaG0rpA9)  
 Book Alice's adventures in a differentiable wonderland by Simone Scardapane  
+Book Interpretable Machine learning by Christoph Molnar  
+Book Interpretable AI by Ajay Thampi   
 
 
 ### Theoretical computer science and programming languages

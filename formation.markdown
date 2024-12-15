@@ -145,6 +145,7 @@ Book Elements of set theory by Herbert B. Enderton
 Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (pause)   
 Book Algebra by Michael Artin (pause)   
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)   
+Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski   
 
 
 

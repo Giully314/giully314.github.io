@@ -70,6 +70,7 @@ Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-i
 Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (pause)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
+Book The algorithm design manual by Steven Skiena   
 Book Elements of programming by Stepanov, McJones    
 
 

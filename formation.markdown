@@ -34,6 +34,7 @@ Official tutorial https://docs.python.org/3/tutorial/
 Book Fluent python by Luciano Ramalho  
 Book High performance python by Ian Ozsvald and Micha Gorelick  
 Book Python data science handbook by Jake VanderPlas  
+Book Cpython internals: your guide to the python 3 interpreter by Anthony Shaw   
 
 
 ### C

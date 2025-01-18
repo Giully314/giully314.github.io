@@ -62,7 +62,7 @@ Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](htt
 Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)    
 Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (pause)  
-Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (current)   
+Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (pause)   
 
 
 
@@ -81,6 +81,7 @@ Book Structured Computer Organization by Tanenbaum, Austin
 ### Operating systems
 Book Operating Systems Concepts by Silberschatz, Galvin, Gagne  
 Book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
+Book Modern operating systems by Tanenbaum, Bos   
 
 
 ### Network
@@ -146,8 +147,8 @@ Book Proofs by Jay Cummings
 Book Elements of set theory by Herbert B. Enderton  
 Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (pause)   
 Book Algebra by Michael Artin (pause)   
-Book A beginner's guide to mathematical logic by Raymond M. Smullyan (current)   
-Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski   
+Book A beginner's guide to mathematical logic by Raymond M. Smullyan    
+Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
 
 
 

@@ -76,7 +76,8 @@ Book Elements of programming by Stepanov, McJones
 
 
 ### Computer architecture
-Book Structured Computer Organization by Tanenbaum, Austin  
+Book Structured Computer Organization by Tanenbaum, Austin   
+Book Computer organization and architecture Design for performance by William Stallings   
 
 ### Operating systems
 Book Operating Systems Concepts by Silberschatz, Galvin, Gagne  

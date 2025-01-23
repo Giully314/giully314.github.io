@@ -27,6 +27,7 @@ Book C++ Templates The Complete Guide by Vandevoorde, Josuttis
 Book C++ Concurrency in Action by Anthony Williams  
 Book Functional programming in C++ by Ivan Cukic   
 Book Modern CMake for C++ by Rafal Świdziński   
+Book Effective C++ by Scott Meyers   
 
 
 ### Python

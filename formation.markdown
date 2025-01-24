@@ -57,6 +57,9 @@ Official tutorial https://ocaml.org/docs/your-first-program#using-the-preprocess
 ### Rust
 Official book https://google.github.io/comprehensive-rust/index.html  
 
+### Assembly
+Book Programming with 64-Bit ARM Assembly Language by Stephen Smith   
+
 ### Performance, parallel programming and distributed systems
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
@@ -76,18 +79,14 @@ Book The algorithm design manual by Steven Skiena
 Book Elements of programming by Stepanov, McJones    
 
 
-### Computer architecture
+### Computer architecture, Operating systems and Computer networks
 Book Structured Computer Organization by Tanenbaum, Austin   
 Book Computer organization and architecture Design for performance by William Stallings   
-
-### Operating systems
 Book Operating Systems Concepts by Silberschatz, Galvin, Gagne  
 Book [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)  
 Book Modern operating systems by Tanenbaum, Bos   
-
-
-### Network
 Book Computer Networking: A Top-Down Approach by Ross, Kurose  
+Book Computer Systems A programmer's perspective by Bryant, O'Hallaron   
 
 ### Software architecture
 Book Large Scale C++ by John Lakos   

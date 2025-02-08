@@ -7,9 +7,10 @@ permalink: /formation/
 
 ## PROJECTS
 Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine from scratch in C++23.  
-Working on [loxcompiler](https://github.com/Giully314/loxcompiler) a compiler using LLVM for the Lox programming language.   
-Working on [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.  
+Working on [loxcompiler](https://github.com/Giully314/loxcompiler) a compiler using LLVM for the Lox programming language.     
 Working on [Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
+Working on [Amelia](https://github.com/Giully314/amelia) a kernel for raspberry pi.  
+[ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.   
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
 [Squad](https://github.com/Giully314/squad) a try on the SQUAD dataset (question answering) with the bidaf model.  

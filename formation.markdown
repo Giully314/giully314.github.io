@@ -101,6 +101,7 @@ Book The mythical man-month by Frederick Brooks
 Book The pragmatic programmer by Andy Hunt and Dave Thomas  
 Book Lead developer career guide by Shelley Benhoff   
 Book Joel on software by Joel Spolsky   
+Book Software engineering by Ian Sommerville  
 
 ### Game engine and rendering
 Book Game Engine Architecture by Jason Gregory  

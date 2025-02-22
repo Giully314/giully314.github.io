@@ -29,6 +29,7 @@ Book C++ Concurrency in Action by Anthony Williams
 Book Functional programming in C++ by Ivan Cukic   
 Book Modern CMake for C++ by Rafal Świdziński   
 Book Effective C++ by Scott Meyers   
+Book API design for C++ by Martin Reddy  
 
 
 ### Python

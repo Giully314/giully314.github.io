@@ -348,4 +348,48 @@ int simple_add(int x, int y) {
    return x + y;
 }
 ```
-We transpiled to C our first Python function! 
+We transpiled to C our first Python function!  
+To support variable assignment, we can implement the visit method 
+corresponding to it `visit_AnnAssign` which stands for annotation assignment and the dataclass for converting it.
+
+```python
+
+# Add this to the other dataclasses.
+@define
+class CVarAssignment(CBaseNode):
+    var_name: CName
+    var_type: CName
+    value: CBaseNode
+
+    def generate(self) -> str:
+        var_name = self.var_name.generate()
+        var_type = self.var_type.generate()
+        value = self.value.generate()
+
+        return f"{var_type} {var_name} = {value}"
+
+# Add this to the node visitor.
+def visit_AnnAssign(self, node: ast.AnnAssign) -> CVarAssignment:
+    print("AnnAssign: ", node)
+    var_name = self.visit(node.target)
+    var_type = self.visit(node.annotation)
+    value = self.visit(node.value)
+    return CVarAssignment(self.ctx, var_name, var_type, value)
+```
+
+```python
+def simple_add_assignment(x: int, y: int) -> int:
+    z: int = x + y
+    return z
+
+tree = ast.parse(inspect.gersource(simple_add_assignment))
+gen_ast = TranspilerVisitor().visit(tree)
+print(gen_ast[0].code)
+```
+
+```c
+int simple_add_assignment(int x, int y) {
+    int z = x + y;
+    return z;
+}
+```

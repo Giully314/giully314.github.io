@@ -155,6 +155,9 @@ Book Algebra by Michael Artin (pause)
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan    
 Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
 
+## Economics
+Course [Yale Game theory](https://youtu.be/nM3rTU927io?si=f1IrZ8YQNt_pIX6g)   
+Course [MIT Principles of Microeconomics](https://youtu.be/_OkTw766oCs?si=tHP-mOkeo-4fF38m)  
 
 
 ## Chemistry & Biology

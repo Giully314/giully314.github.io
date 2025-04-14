@@ -14,6 +14,8 @@ Working on [Amelia](https://github.com/Giully314/amelia) a kernel for raspberry 
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
 [Squad](https://github.com/Giully314/squad) a try on the SQUAD dataset (question answering) with the bidaf model.  
+[Snippetbox](https://github.com/Giully314/snippetbox) a backend written in Go for posting snippets of text.  
+[Greenlight](https://github.com/Giully314/greenlight) a backend written in Go for movie classification.  
 [Build a 6502 computer from scratch](https://youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH) run "Hello world" on 
 a computer built from scratch using a 6502. I'm planning to write a kernel once i finish the base project.  
 
@@ -48,6 +50,7 @@ Book The C Programming Language by Ritchie, Kernighan
 Official tutorial https://go.dev/tour/list  
 Book Learning Go An idiomatic approach to real world Go programming by Jon Bodner      
 Book Let's Go by Alex Edwards   
+Book Let's Go further by Alex Edwards  
 
 
 ### Java 

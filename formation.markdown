@@ -151,6 +151,7 @@ Book Calculus vol 1 by Tom M. Apostol
 Book Introduction to operations research by Hillier, Lieberman  
 Book A first course in probability by Sheldon M. Ross  
 Book Information Theory A tutorial introduction by James V Stone  
+Book Bayesian statistics the fun way by Will Kurt   
 Book Proofs by Jay Cummings   
 Book Elements of set theory by Herbert B. Enderton  
 Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/) (pause)   

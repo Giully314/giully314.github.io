@@ -72,12 +72,13 @@ Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/cou
 Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (pause)  
 Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (pause)   
+Book Performance analysis and tuing on modern cpus by Denis Bakhvalov (current)  
 
 
 
 ### Algorithms and data structures
 Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
-Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (pause)  
+Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (current)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
 Book The algorithm design manual by Steven Skiena   
@@ -99,6 +100,7 @@ Book Game Programming Patterns by Robert Nystrom
 Book C++ Software design, Design principles and patterns by Klaus Iglberger   
 Book A philosophy of software design by by John Ousterhout  
 Effective Software Architecture by Oliver Goldman   
+Cource [MIT Software construction](https://web.mit.edu/6.031/www/sp23/)  
 
 ### Software management
 Book The mythical man-month by Frederick Brooks  

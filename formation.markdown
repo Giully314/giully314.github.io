@@ -41,17 +41,12 @@ Book High performance python by Ian Ozsvald and Micha Gorelick
 Book Python data science handbook by Jake VanderPlas  
 Book Cpython internals: your guide to the python 3 interpreter by Anthony Shaw   
 
-
 ### C
 Book The C Programming Language by Ritchie, Kernighan  
-
 
 ### Golang
 Official tutorial https://go.dev/tour/list  
 Book Learning Go An idiomatic approach to real world Go programming by Jon Bodner      
-Book Let's Go by Alex Edwards   
-Book Let's Go further by Alex Edwards  
-
 
 ### Java 
 Book Core Java vol. 1 & 2 by Cay S. Horstmann (but I really don't like Java)  
@@ -64,6 +59,15 @@ Official book https://google.github.io/comprehensive-rust/index.html
 
 ### Assembly
 Book Programming with 64-Bit ARM Assembly Language by Stephen Smith   
+
+### Backend
+Book Let's Go by Alex Edwards   
+Book Let's Go further by Alex Edwards 
+
+### Databases
+Book Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan  
+Course [CMU Intro to database systems](https://15445.courses.cs.cmu.edu/fall2024/) (current)  
+
 
 ### Performance, parallel programming and distributed systems
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
@@ -139,9 +143,11 @@ Book Interpretable AI by Ajay Thampi
 
 
 ### Theoretical computer science and programming languages
-Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (current)   
-Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold (current)  
+Course [MIT Theory of computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) (pause)   
+Book Introduction to the theory of computation by Michael Sipser (pause)  
+Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold (pause)  
 Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom   
+Book Compilers principles, techniques and tool by Aho, Lam, Sethi, Ullman  
 
 
 
@@ -160,10 +166,11 @@ Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-sy
 Book Algebra by Michael Artin (pause)   
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan    
 Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
+Book Analysis 1 by Terence Tao (current)  
 
 ## Economics
-Course [Yale Game theory](https://youtu.be/nM3rTU927io?si=f1IrZ8YQNt_pIX6g)   
-Course [MIT Principles of Microeconomics](https://youtu.be/_OkTw766oCs?si=tHP-mOkeo-4fF38m)  
+Course [Yale Game theory](https://youtu.be/nM3rTU927io?si=f1IrZ8YQNt_pIX6g) (pause)  
+Course [MIT Principles of Microeconomics](https://youtu.be/_OkTw766oCs?si=tHP-mOkeo-4fF38m) (pause)  
 
 
 ## Chemistry & Biology

@@ -176,6 +176,8 @@ Course [MIT Principles of Microeconomics](https://youtu.be/_OkTw766oCs?si=tHP-mO
 ## Chemistry & Biology
 Course [MIT Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/)    
 Course [MIT Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/)  
+Book Life The science of biology by Sadava, Hillis, Heller  
+Book Chemical Principles: The Quest for Insight by Atkins, Jones, Laverman, Young, Patterson  
 Book Molecular biology of the cell by Bruce Alberts (pause)  
 
 

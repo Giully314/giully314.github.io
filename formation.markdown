@@ -104,7 +104,9 @@ Book Game Programming Patterns by Robert Nystrom
 Book C++ Software design, Design principles and patterns by Klaus Iglberger   
 Book A philosophy of software design by by John Ousterhout  
 Effective Software Architecture by Oliver Goldman   
-Cource [MIT Software construction](https://web.mit.edu/6.031/www/sp23/)  
+Course [MIT Software construction](https://web.mit.edu/6.031/www/sp23/)  
+Book Functional design by Robert C. Martin  
+
 
 ### Software management
 Book The mythical man-month by Frederick Brooks  

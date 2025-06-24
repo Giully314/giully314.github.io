@@ -67,6 +67,7 @@ Book Let's Go further by Alex Edwards
 ### Databases
 Book Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan  
 Course [CMU Intro to database systems](https://15445.courses.cs.cmu.edu/fall2024/) (current)  
+Book Database design for mere mortals by Michael J. Hernandez (current)  
 
 
 ### Performance, parallel programming and distributed systems

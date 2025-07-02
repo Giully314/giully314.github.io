@@ -66,7 +66,7 @@ Book Let's Go further by Alex Edwards
 
 ### Databases
 Book Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan  
-Course [CMU Intro to database systems](https://15445.courses.cs.cmu.edu/fall2024/) (current)  
+Course [CMU Intro to database systems](https://15445.courses.cs.cmu.edu/fall2024/) (pause)  
 Book Database design for mere mortals by Michael J. Hernandez (current)  
 
 
@@ -77,7 +77,7 @@ Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/cou
 Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (pause)  
 Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (pause)   
-Book Performance analysis and tuing on modern cpus by Denis Bakhvalov (current)  
+Book Performance analysis and tuing on modern cpus by Denis Bakhvalov  
 
 
 
@@ -143,6 +143,8 @@ Course [Neural network: Zero to hero by Karpathy](https://youtube.com/playlist?l
 Book Alice's adventures in a differentiable wonderland by Simone Scardapane  
 Book Interpretable Machine learning by Christoph Molnar  
 Book Interpretable AI by Ajay Thampi   
+Course [Stanford CS324 Large language models](https://stanford-cs324.github.io/winter2022/) (current)  
+Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (current)  
 
 
 ### Theoretical computer science and programming languages

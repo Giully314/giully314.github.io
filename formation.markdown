@@ -144,8 +144,9 @@ Course [Neural network: Zero to hero by Karpathy](https://youtube.com/playlist?l
 Book Alice's adventures in a differentiable wonderland by Simone Scardapane  
 Book Interpretable Machine learning by Christoph Molnar  
 Book Interpretable AI by Ajay Thampi   
-Course [Stanford CS324 Large language models](https://stanford-cs324.github.io/winter2022/) (current)  
-Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (current)  
+Course [Stanford CS324 Large language models](https://stanford-cs324.github.io/winter2022/)    
+Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (pause)  
+Book Artificial intelligence a modern approach by Peter Norvig and Stuart J. Russell (current)    
 
 
 ### Theoretical computer science and programming languages
@@ -173,6 +174,7 @@ Book Algebra by Michael Artin (pause)
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan    
 Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
 Book Analysis 1 by Terence Tao (current)  
+Book Probability and information: An integrated approach by David Applebaum (current)  
 
 ## Economics
 Course [Yale Game theory](https://youtu.be/nM3rTU927io?si=f1IrZ8YQNt_pIX6g) (pause)  

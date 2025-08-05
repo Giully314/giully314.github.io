@@ -53,6 +53,7 @@ Book Core Java vol. 1 & 2 by Cay S. Horstmann (but I really don't like Java)
 
 ### OCaml
 Official tutorial https://ocaml.org/docs/your-first-program#using-the-preprocessor-to-generate-code   
+Book [OCaml Programming: Correct + Efficient + Beautiful](OCaml Programming: Correct + Efficient + Beautiful)   
 
 ### Rust
 Official book https://google.github.io/comprehensive-rust/index.html  

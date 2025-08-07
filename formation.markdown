@@ -63,12 +63,13 @@ Book Programming with 64-Bit ARM Assembly Language by Stephen Smith
 
 ### Backend
 Book Let's Go by Alex Edwards   
-Book Let's Go further by Alex Edwards 
+Book Let's Go further by Alex Edwards  
+[Fastapi all tutorials](https://fastapi.tiangolo.com/learn/)  
 
 ### Databases
 Book Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan  
 Course [CMU Intro to database systems](https://15445.courses.cs.cmu.edu/fall2024/) (pause)  
-Book Database design for mere mortals by Michael J. Hernandez (current)  
+Book Database design for mere mortals by Michael J. Hernandez   
 
 
 ### Performance, parallel programming and distributed systems

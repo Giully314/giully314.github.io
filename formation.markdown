@@ -53,7 +53,7 @@ Book Core Java vol. 1 & 2 by Cay S. Horstmann (but I really don't like Java)
 
 ### OCaml
 Official tutorial  
-Book [OCaml Programming: Correct + Efficient + Beautiful](OCaml Programming: Correct + Efficient + Beautiful)   
+Book [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)   
 
 ### Rust
 Official book https://google.github.io/comprehensive-rust/index.html  

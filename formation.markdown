@@ -174,8 +174,10 @@ Course [MIT Signal and Systems](https://ocw.mit.edu/courses/6-003-signals-and-sy
 Book Algebra by Michael Artin (pause)   
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan    
 Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
-Book Analysis 1 by Terence Tao (current)  
+Book Analysis 1 by Terence Tao  
 Book Probability and information: An integrated approach by David Applebaum (current)  
+Book Elementary Real Analysis by Andrew M. Bruckner, Brian S Thomson, and Judith B. Bruckner (current)  
+
 
 ## Economics
 Course [Yale Game theory](https://youtu.be/nM3rTU927io?si=f1IrZ8YQNt_pIX6g) (pause)  

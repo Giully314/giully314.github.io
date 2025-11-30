@@ -117,6 +117,7 @@ Book The pragmatic programmer by Andy Hunt and Dave Thomas
 Book Lead developer career guide by Shelley Benhoff   
 Book Joel on software by Joel Spolsky   
 Book Software engineering by Ian Sommerville  
+Book Peopleware: Productive Projects and Teams by Timothy Lister and Tom DeMarc   
 
 ### Game engine and rendering
 Book Game Engine Architecture by Jason Gregory  
@@ -175,6 +176,7 @@ Book Algebra by Michael Artin (pause)
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan    
 Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
 Book Analysis 1 by Terence Tao  
+Course [MIT Real analysis](https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/syllabus/) (current)  
 Book Probability and information: An integrated approach by David Applebaum (current)  
 Book Elementary Real Analysis by Andrew M. Bruckner, Brian S Thomson, and Judith B. Bruckner (current)  
 

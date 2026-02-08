@@ -76,7 +76,8 @@ Book Database design for mere mortals by Michael J. Hernandez
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
 Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)    
-Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
+Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (current)  
+Book Distributed Systems by Andrew S. Tanenbaum and Maarten van Steen (current)  
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (pause)  
 Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (pause)   
 Book Performance analysis and tuing on modern cpus by Denis Bakhvalov  
@@ -109,7 +110,7 @@ Book A philosophy of software design by by John Ousterhout
 Effective Software Architecture by Oliver Goldman   
 Course [MIT Software construction](https://web.mit.edu/6.031/www/sp23/)  
 Book Functional design by Robert C. Martin   
-Book Data oriented design by R. Fabian (current)  
+Book Data oriented design by R. Fabian  
 
 
 ### Software management
@@ -145,11 +146,12 @@ Book An introduction to statistical learning by James, Witten, Hastie, Tibshiran
 Book The data science design manual by Steven Skiena  
 Course [Neural network: Zero to hero by Karpathy](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=fuANCn0QfaG0rpA9)  
 Book Alice's adventures in a differentiable wonderland by Simone Scardapane  
-Book Interpretable Machine learning by Christoph Molnar  
-Book Interpretable AI by Ajay Thampi   
+Book Interpretable Machine learning by Christoph Molnar (pause)  
+Book Interpretable AI by Ajay Thampi (pause)  
 Course [Stanford CS324 Large language models](https://stanford-cs324.github.io/winter2022/)    
-Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (pause)  
-Book Artificial intelligence a modern approach by Peter Norvig and Stuart J. Russell (current)    
+Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (current)   
+Book Large Language Models: A Deep Dive: Bridging Theory and Practice by Garrett Somers, Sarah Sorenson, Uday Kamath, Kevin Keenan (current)  
+Book Artificial intelligence a modern approach by Peter Norvig and Stuart J. Russell (pause)    
 
 
 ### Theoretical computer science and programming languages
@@ -177,10 +179,10 @@ Book Algebra by Michael Artin (pause)
 Book A beginner's guide to mathematical logic by Raymond M. Smullyan    
 Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
 Book Analysis 1 by Terence Tao  
-Course [MIT Real analysis](https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/syllabus/) (current)  
+Course [MIT Real analysis](https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/syllabus/)   
 Book Probability and information: An integrated approach by David Applebaum (current)  
-Book Elementary Real Analysis by Andrew M. Bruckner, Brian S Thomson, and Judith B. Bruckner (current)  
-
+Book Elementary Real Analysis by Andrew M. Bruckner, Brian S Thomson, and Judith B. Bruckner (text reference of mit course)   
+Course [MIT Introduction to metric spaces](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/syllabus/) (current)  
 
 ## Economics
 Course [Yale Game theory](https://youtu.be/nM3rTU927io?si=f1IrZ8YQNt_pIX6g) (pause)  

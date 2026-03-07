@@ -6,10 +6,11 @@ permalink: /formation/
 
 
 ## PROJECTS
-Working on [Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine from scratch in C++23.  
-Working on [loxcompiler](https://github.com/Giully314/loxcompiler) a compiler using LLVM for the Lox programming language.     
-Working on [Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
-Working on [Amelia](https://github.com/Giully314/amelia) a kernel for raspberry pi.  
+Working on [Mann](https://github.com/Giully314/Mann/) a text editor from scratch in C++26.  
+[Gargantua](https://github.com/Giully314/Gargantua) a 2d game engine from scratch in C++23.  
+[loxcompiler](https://github.com/Giully314/loxcompiler) a compiler using LLVM for the Lox programming language.  
+[Murphy](https://github.com/Giully314/Murphy) a web browser from scratch, in C++23.  
+[Amelia](https://github.com/Giully314/amelia) a kernel for raspberry pi.  
 [ElementsOfProgramming](https://github.com/Giully314/ElementsOfProgramming) a mathematical framework for programming.   
 [Endurance](https://github.com/Giully314/Endurance) a simple implementation of automatic differentiation reverse mode.  
 [loxlol](https://github.com/Giully314/loxlol) an interpreter for the lox language.  
@@ -61,10 +62,14 @@ Official book https://google.github.io/comprehensive-rust/index.html
 ### Assembly
 Book Programming with 64-Bit ARM Assembly Language by Stephen Smith   
 
+### Devops, cloud and infrastructure
+Course [Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)  
+
 ### Backend
 Book Let's Go by Alex Edwards   
 Book Let's Go further by Alex Edwards  
 [Fastapi all tutorials](https://fastapi.tiangolo.com/learn/)  
+Book Architecture Patterns with Python by  Bob Gregory and Harry Percival (current)  
 
 ### Databases
 Book Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan  

@@ -64,13 +64,14 @@ Book Programming with 64-Bit ARM Assembly Language by Stephen Smith
 
 ### Devops, cloud and infrastructure
 Course [Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)  
-Book Visualizing Google Cloud by Priyanka Vergadia (current)  
+Book Visualizing Google Cloud by Priyanka Vergadia    
 
 ### Backend
 Book Let's Go by Alex Edwards   
 Book Let's Go further by Alex Edwards  
 [Fastapi all tutorials](https://fastapi.tiangolo.com/learn/)  
-Book Architecture Patterns with Python by  Bob Gregory and Harry Percival (current)  
+Book Architecture Patterns with Python by  Bob Gregory and Harry Percival  
+Book Design data intensive applications by Martin Kleppmann (current)  
 
 ### Databases
 Book Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan  

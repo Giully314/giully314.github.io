@@ -64,7 +64,8 @@ Book Programming with 64-Bit ARM Assembly Language by Stephen Smith
 
 ### Devops, cloud and infrastructure
 Course [Docker](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)  
-Book Visualizing Google Cloud by Priyanka Vergadia    
+Book Visualizing Google Cloud by Priyanka Vergadia   
+Book Fundamentals of DevOps and Software Delivery by Yevgeniy Brikman  
 
 ### Backend
 Book Let's Go by Alex Edwards   

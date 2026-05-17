@@ -86,8 +86,8 @@ Book Database design for mere mortals by Michael J. Hernandez
 Structured Parallel Programming: Patterns for Efficient Computation by McCool, Reinders, Robison  
 Site MPI https://mpitutorial.com/tutorials/ [for a project, check my github](https://github.com/Giully314/CellularMPI)  
 Course [MIT Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)    
-Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (current)  
-Book Distributed Systems by Andrew S. Tanenbaum and Maarten van Steen (current)  
+Course [MIT Distributed systems](https://pdos.csail.mit.edu/6.824/schedule.html) (pause)  
+Book Distributed Systems by Andrew S. Tanenbaum and Maarten van Steen (pause)  
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (pause)  
 Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (pause)   
 Book Performance analysis and tuing on modern cpus by Denis Bakhvalov  
@@ -96,11 +96,12 @@ Book Performance analysis and tuing on modern cpus by Denis Bakhvalov
 
 ### Algorithms and data structures
 Course [MIT Introduction to Algorithms 2011](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)  
-Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (current)  
+Course [MIT Design and Analysis of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) (pause)  
 Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein  
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
 Book The algorithm design manual by Steven Skiena   
-Book Elements of programming by Stepanov, McJones    
+Book Elements of programming by Stepanov, McJones  
+Book The art of computer programming volume 1 by Donald Knuth (current)  
 
 
 ### Computer architecture, Operating systems and Computer networks
@@ -159,8 +160,8 @@ Book Alice's adventures in a differentiable wonderland by Simone Scardapane
 Book Interpretable Machine learning by Christoph Molnar (pause)  
 Book Interpretable AI by Ajay Thampi (pause)  
 Course [Stanford CS324 Large language models](https://stanford-cs324.github.io/winter2022/)    
-Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (current)   
-Book Large Language Models: A Deep Dive: Bridging Theory and Practice by Garrett Somers, Sarah Sorenson, Uday Kamath, Kevin Keenan (current)  
+Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (pause)   
+Book Large Language Models: A Deep Dive: Bridging Theory and Practice by Garrett Somers, Sarah Sorenson, Uday Kamath, Kevin Keenan (pause)  
 Book Artificial intelligence a modern approach by Peter Norvig and Stuart J. Russell (pause)    
 
 
@@ -190,9 +191,9 @@ Book A beginner's guide to mathematical logic by Raymond M. Smullyan
 Book [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski (pause)   
 Book Analysis 1 by Terence Tao  
 Course [MIT Real analysis](https://ocw.mit.edu/courses/18-100b-real-analysis-spring-2025/pages/syllabus/)   
-Book Probability and information: An integrated approach by David Applebaum (current)  
+Book Probability and information: An integrated approach by David Applebaum (pause)  
 Book Elementary Real Analysis by Andrew M. Bruckner, Brian S Thomson, and Judith B. Bruckner (text reference of mit course)   
-Course [MIT Introduction to metric spaces](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/syllabus/) (current)  
+Course [MIT Introduction to metric spaces](https://ocw.mit.edu/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/pages/syllabus/) (pause)  
 
 ## Economics
 Course [Yale Game theory](https://youtu.be/nM3rTU927io?si=f1IrZ8YQNt_pIX6g) (pause)  

@@ -91,6 +91,7 @@ Book Distributed Systems by Andrew S. Tanenbaum and Maarten van Steen (pause)
 Book Programming massively parallel processors, A hands-on approach by Hwu, Kirk, Hajj (pause)  
 Course [Computer enhance](https://www.computerenhance.com/p/table-of-contents) by Casey Muratori (pause)   
 Book Performance analysis and tuing on modern cpus by Denis Bakhvalov  
+Book Systems Performance Enterprise and cloud by Brendan Gregg (current)  
 
 
 
@@ -101,7 +102,7 @@ Book Introduction to Algorithms 3rd ed. by Cormen, Leiserson, Rivest, Stein
 Book Advanced Algorithms and Data Structures by Marcello La Rocca  
 Book The algorithm design manual by Steven Skiena   
 Book Elements of programming by Stepanov, McJones  
-Book The art of computer programming volume 1 by Donald Knuth (current)  
+Book The art of computer programming volume 1 by Donald Knuth (pause)  
 
 
 ### Computer architecture, Operating systems and Computer networks
@@ -162,7 +163,8 @@ Book Interpretable AI by Ajay Thampi (pause)
 Course [Stanford CS324 Large language models](https://stanford-cs324.github.io/winter2022/)    
 Course [Stanford CS336 Language modeling from scratch](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) (pause)   
 Book Large Language Models: A Deep Dive: Bridging Theory and Practice by Garrett Somers, Sarah Sorenson, Uday Kamath, Kevin Keenan (pause)  
-Book Artificial intelligence a modern approach by Peter Norvig and Stuart J. Russell (pause)    
+Book Artificial intelligence a modern approach by Peter Norvig and Stuart J. Russell (pause)  
+Book [How to scale your model (known as The scaling book)](https://jax-ml.github.io/scaling-book/) (current)  
 
 
 ### Theoretical computer science and programming languages
@@ -171,7 +173,8 @@ Book Introduction to the theory of computation by Michael Sipser (pause)
 Book The annotated Turing (about Turing's paper "On computable numbers") by Charles Petzold (pause)  
 Book [Crafting interpreters](https://craftinginterpreters.com/contents.html) by Robert Nystrom   
 Book Compilers principles, techniques and tool by Aho, Lam, Sethi, Ullman  
-
+Book Mathematics and Computation by Avi Wigderson (current)  
+Book Computability and Logic by George S. Boolos (current)  
 
 
 ## Math

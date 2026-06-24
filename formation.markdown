@@ -80,6 +80,7 @@ Book Design data intensive applications by Martin Kleppmann (current)
 Book Database System Concepts by Abraham Silberschatz, Henry F. Korth, and S. Sudarshan  
 Course [CMU Intro to database systems](https://15445.courses.cs.cmu.edu/fall2024/) (pause)  
 Book Database design for mere mortals by Michael J. Hernandez   
+Book Database internals by Alex Petrov (current)   
 
 
 ### Performance, parallel programming and distributed systems
